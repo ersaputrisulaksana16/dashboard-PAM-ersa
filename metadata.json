@@ -1,0 +1,6 @@
+{
+  "name": "PAW Dashboard - Portofolio & Tugas",
+  "description": "Dashboard portofolio dan manajemen tugas mingguan mata kuliah Pengembangan Aplikasi Website dengan desain Academic Essence",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
